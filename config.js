@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "tỏ tình ",
-    introTitle: 'gửi chị eirlys',
+    introTitle: ' chị eirlys',
     introDesc: `thật ra thì em theo dõi chị lâu rồi á mà e cũng không để ý nhiều tại em nghĩ chị ở xa.
     dạo gần đây em mới biết là chị học cùng trường đại học nên em quyết định mở lời dù em có hơi sợ tí
     em định nhắn tin trước nhưng thấy không tiến triển mấy nên...`,
