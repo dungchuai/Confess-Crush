@@ -8,7 +8,7 @@ const CONFIG = {
     title: '',
     desc: 'Liệu em có thể trở thành người yêu của chị được không? ',
     btnYes: 'Chị đồng ý',
-    btnNo: '',
+    btnNo: 'không em :3',
     question: 'Hãy ấn "A" để tiếp tục',
     btnReply: 'Gửi câu trả lời',
     reply: 'A',
